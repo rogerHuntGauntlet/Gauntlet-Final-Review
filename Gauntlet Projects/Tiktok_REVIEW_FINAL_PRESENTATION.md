@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/rogerHuntGauntlet/ohftokv5.1.git)
 [![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/LeDLqyMTrKiEpUxpxCmBzb?)
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://drive.google.com/drive/folders/1UtGKOOogsZJnwRryzEGvEdJrkMC8BWWF?usp=sharing)
 
 > An AI-powered movie scene generation and directorial training platform
 
