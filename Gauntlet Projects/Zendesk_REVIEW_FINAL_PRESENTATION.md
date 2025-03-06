@@ -1,7 +1,7 @@
 # ZenDesk Clone 🎯 - Final Project Review
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/rogerHuntGauntlet/ZenDesk-Clone-Review.git)
-[![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/Yx4KLmNp2QTXvC7HvEcaGwG?)
+[![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/WsFDf58TRTXpC7HvEcaGwG?)
 [![Platform](https://img.shields.io/badge/Platform-Web-orange.svg)](https://projects.ohfpartners.com/)
 
 > An AI-powered customer support platform with intelligent ticket management
