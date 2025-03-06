@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/rogerHuntGauntlet/AlphaScribex-Review.git)
 [![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/h9YhqEaTu39c4HVF1ngD8k?)
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://drive.google.com/drive/folders/1mvYNShBxURutDyhb5fkfQFAVKctu2_iQ?usp=sharing)
 
 > An AI-powered writing assistant platform with intelligent learning capabilities
 
