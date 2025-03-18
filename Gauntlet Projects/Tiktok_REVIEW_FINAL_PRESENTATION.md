@@ -4,7 +4,7 @@
 [![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/LeDLqyMTrKiEpUxpxCmBzb?)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://drive.google.com/drive/folders/1UtGKOOogsZJnwRryzEGvEdJrkMC8BWWF?usp=sharing)
 
-> An AI-powered movie scene generation and directorial training platform
+> OHFtok is a mobile app designed for aspiring filmmakers, turning concepts into complete movie storyboards with ease. Users can film scenes, create full movies, and share them with an audience. During the creative process, they can "consult" legendary directors for scene rewrites and professional notes. Imagine having insights from Scorsese at your fingertips—OHFtok brings the art of filmmaking to everyone!
 
 ---
 
@@ -165,7 +165,7 @@ graph TD
 
 ## 🎯 6. Conclusion
 
-OHFtok demonstrates excellence in AI-first development, combining robust architecture with user-focused features. The project successfully balances technical innovation with practical usability, setting a strong foundation for future enhancements.
+OHFtok is a mobile app designed for aspiring filmmakers, turning concepts into complete movie storyboards with ease. Users can film scenes, create full movies, and share them with an audience. During the creative process, they can "consult" legendary directors for scene rewrites and professional notes. Imagine having insights from Scorsese at your fingertips—OHFtok brings the art of filmmaking to everyone!
 
 ---
 
