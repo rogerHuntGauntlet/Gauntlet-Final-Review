@@ -4,7 +4,7 @@
 [![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/fD3JFhVLbmHsf8ceY892kn?)
 [![Platform](https://img.shields.io/badge/Platform-Web-orange.svg)](https://www.ohfpartners.com/)
 
-> An AI-powered communication platform with intelligent agent capabilities
+> This project is a fully functional Slack clone, featuring comprehensive post options, file sharing, direct messaging, and more. Its standout feature allows users to create custom AI agents tailored to their needs. Whether it's assistance with math homework, financial reports, or general feedback, users can build agents to collaborate, review work, and provide insights. Enhance teamwork and productivity with a personalized suite of AI agents in your digital workspace!
 
 ---
 
@@ -154,7 +154,7 @@ graph TD
 
 ## 🎯 6. Conclusion
 
-The Slack Clone demonstrates excellence in AI-first development, combining sophisticated AI features with robust technical implementation. The project successfully balances innovation with practical utility, creating a powerful platform for modern team communication.
+This project is a fully functional Slack clone, featuring comprehensive post options, file sharing, direct messaging, and more. Its standout feature allows users to create custom AI agents tailored to their needs. Whether it's assistance with math homework, financial reports, or general feedback, users can build agents to collaborate, review work, and provide insights. Enhance teamwork and productivity with a personalized suite of AI agents in your digital workspace!
 
 ---
 
