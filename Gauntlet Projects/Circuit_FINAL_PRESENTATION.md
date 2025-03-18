@@ -4,7 +4,7 @@
 [![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/qJJrU4mtXAPKttaqjcXUqj?)
 [![Platform](https://img.shields.io/badge/Platform-Web-orange.svg)](https://alpha-circuit.vercel.app/)
 
-> An AI-powered gaming matchmaking platform with personality analysis
+> This project was developed for an Alpha School student aiming to create a real-time matchmaking service for gaming companies. We built an interactive sandbox that allows him to fine-tune his system’s prompting capabilities based on client requests. Additionally, his clients can use the playground to test and optimize their integration with the service, ensuring seamless and efficient matchmaking.
 
 ---
 
@@ -155,7 +155,7 @@ graph TD
 
 ## 🎯 6. Conclusion
 
-Circuit demonstrates excellence in AI-first development, combining sophisticated matchmaking with robust safety features. The project successfully balances technical innovation with user needs, creating a powerful platform for gaming communities.
+This project was developed for an Alpha School student aiming to create a real-time matchmaking service for gaming companies. We built an interactive sandbox that allows him to fine-tune his system’s prompting capabilities based on client requests. Additionally, his clients can use the playground to test and optimize their integration with the service, ensuring seamless and efficient matchmaking.
 
 ---
 
