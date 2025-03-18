@@ -4,7 +4,7 @@
 [![Video](https://img.shields.io/badge/Video-Presentation-red.svg)](https://share.vidyard.com/watch/h9YhqEaTu39c4HVF1ngD8k?)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://drive.google.com/drive/folders/1mvYNShBxURutDyhb5fkfQFAVKctu2_iQ?usp=sharing)
 
-> An AI-powered writing assistant platform with intelligent learning capabilities
+> Scribex is a mobile app developed as part of an Alpha student project, designed to help users become better writers through an interactive, step-by-step process. Users begin by crafting five perfect sentences before progressing to five perfect paragraphs, then five perfect pages. If their writing isn't flawless, they can explore how renowned authors like Hemingway or Wolff approached similar ideas. With Scribex, learning to write isn't just practice—it’s a guided journey with the wisdom of literary greats.
 
 ---
 
@@ -156,7 +156,7 @@ graph TD
 
 ## 🎯 6. Conclusion
 
-Alpha Scribex demonstrates excellence in AI-first development, combining powerful writing assistance with intelligent learning features. The project successfully balances technical innovation with user needs, creating an effective platform for enhanced writing and learning.
+Scribex is a mobile app developed as part of an Alpha student project, designed to help users become better writers through an interactive, step-by-step process. Users begin by crafting five perfect sentences before progressing to five perfect paragraphs, then five perfect pages. If their writing isn't flawless, they can explore how renowned authors like Hemingway or Wolff approached similar ideas. With Scribex, learning to write isn't just practice—it’s a guided journey with the wisdom of literary greats.
 
 ---
 
